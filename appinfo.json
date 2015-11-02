@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anagrande@gmail.com",
+    "longName": "Counter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Counter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1bc119f2-214c-465b-8ae6-f0e64755d9a7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
